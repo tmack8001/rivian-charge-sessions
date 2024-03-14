@@ -1,0 +1,22 @@
+/* App.css */
+
+/* Global styles for the entire application */
+
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-footer {
+    background-color: #282c34;
+    padding: 10px;
+    color: white;
+  }
+  
+  /* Additional styles specific to components can be added here */
+  
